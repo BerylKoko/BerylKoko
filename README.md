@@ -1,9 +1,18 @@
 # 👋 Hi, I’m Beryl Koko
-🎓 Junior at Cornell University studying Information Science (Class of 2027)  
-💻 Interested in Data Science, Web Development, and Data-Driven Design  
-📊 Skills: Python, SQL, HTML/CSS, JavaScript, Pandas, NumPy  
-🌱 Currently building projects in data analysis and web apps to grow my portfolio  
+I am an Information Science student at Cornell University (Class of 2027) concentrating in Data Science. 
+I specialize in bridging the gap between heavy backend data parsing and interactive frontend engineering.
 
-📫 Connect with me:  
-- LinkedIn: [linkedin.com/in/beryl-koko-28a619245](https://www.linkedin.com/in/beryl-koko-28a619245/)  
-- GitHub: [github.com/BerylKoko](https://github.com/BerylKoko)  
+Currently, I am building **The McQueen Effect**, a high-frequency Formula 1 telemetry dashboard that uses Python (FastF1) to extract race data and maps it into a responsive UI to analyze driver performance degradation.
+
+### 🛠️ Technical Arsenal
+* **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS
+* **Data & Backend:** Python, SQL, Pandas, NumPy, Jupyter
+* **Tools:** Git, GitHub, REST APIs, Agile Workflows
+
+### 🚀 Featured Work
+* **[Link to F1 Repo]** - F1 Telemetry Engine (Python pipeline + Frontend Data Visualization)
+* **[Link to Weather Repo]** - Asynchronous Weather Application (JS + REST APIs)
+* **[Link to Apple Harvest Repo]** - Apple Harvest Festival Web App (Responsive UI/UX)
+
+📫 **Let's Connect:** [linkedin.com/in/beryl-koko-28a619245](https://www.linkedin.com/in/beryl-koko-28a619245/)] | ✉️ [bek74@cornell.edu] 
+ 
