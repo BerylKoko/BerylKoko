@@ -10,7 +10,7 @@ Currently, I am building **The McQueen Effect**, a high-frequency Formula 1 tele
 * **Tools:** Git, GitHub, REST APIs, Agile Workflows
 
 ### 🚀 Featured Work
-* **[Link Pending]** - F1 Telemetry Engine (Python pipeline + Frontend Data Visualization)
+* **[ https://berylkoko.github.io/F1-Analysis/]** - F1 Telemetry Engine (Python pipeline + Frontend Data Visualization)
 * **[[https://berylkoko.github.io/Weather-App/](https://berylkoko.github.io/Weather-App/)]** - Asynchronous Weather Application (JS + REST APIs)
 * **[[Harvest Festival on GitHub Pages](https://berylkoko.github.io/Harvest-Festival/)]** - Apple Harvest Festival Web App (Responsive UI/UX)
 
