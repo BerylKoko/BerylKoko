@@ -11,6 +11,8 @@ Right now, my work sits across **product, data, UX research, and web development
 
 Has Lewis Hamilton declined, or are perceptions of decline distorted by the standard set during his dominant years? I analyzed his career from 2007 through the 2026 season-to-date using outcome rates, teammate comparisons, and constructor context, then turned the findings into an interactive visual story.
 
+**[Live site](https://berylkoko.github.io/F1-Analysis/)**
+
 ### [Race Lens](https://github.com/BerylKoko/Race-Lens)
 **Product Design · UX Research · Interactive Prototype**
 
