@@ -18,10 +18,14 @@ Has Lewis Hamilton declined, or are perceptions of decline distorted by the stan
 
 A novice-friendly Formula 1 race interface built from an audit of existing F1 interfaces, task-based user research, and iterative prototyping. The redesign focuses on clearer timing, race context, tyre information, and driver tracking for viewers who do not already know the visual language of F1.
 
+**[Live site](https://berylkoko.github.io/Race-Lens/)**
+
 ### [Job Market & Skills Analysis](https://github.com/BerylKoko/Job-Market-Skills-Analysis)
 **Python · SQL · Relational Data · Data Visualization**
 
 An exploratory analysis of analyst, product, and business-intelligence job postings. I cleaned and joined relational job, skill, industry, and salary data to compare role families, experience levels, compensation, and recurring technical signals.
+
+**[Live site](https://berylkoko.github.io/Job-Market-Skills-Analysis/)**
 
 ### [Bookmatch](https://github.com/BerylKoko/Book-Recommendation)
 **Product Build · Flask · JavaScript · REST APIs**
