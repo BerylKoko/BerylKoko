@@ -1,19 +1,46 @@
-# 👋 Hi, I’m Beryl Koko
-I am an Information Science student at Cornell University (Class of 2027) concentrating in Data Science. 
-I specialize in bridging the gap between heavy backend data parsing and interactive frontend engineering.
+# Hi, I'm Beryl 👋
 
-Currently, I am building **The McQueen Effect**, a high-frequency Formula 1 telemetry dashboard that uses Python (FastF1) to extract race data and maps it into a responsive UI to analyze driver performance degradation.
+I'm an Information Science student at Cornell University, concentrating in Data Science. I like projects that start with a question I can't leave alone - something confusing, inefficient, interesting, or worth investigating - and then move through research, analysis, design, and technical execution until there is something concrete to show.
 
-### 🛠️ Technical Arsenal
-* **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS
-* **Data & Backend:** Python, SQL, Pandas, NumPy, Jupyter
-* **Tools:** Git, GitHub, REST APIs, Agile Workflows
+Right now, my work sits across **product, data, UX research, and web development**.
 
-### 🚀 Featured Work
-* **[https://book-recommendation-1-e4km.onrender.com/]** - Live Demo Book-Recommendation (Flask, Python, HTML, Vanilla Javascript and CSS)
-* **[[Harvest Festival on GitHub Pages](https://berylkoko.github.io/Harvest-Festival/)]** - Apple Harvest Festival Web App (Responsive UI/UX)
-* **[ https://berylkoko.github.io/F1-Analysis/]** - F1 Telemetry Engine (Python pipeline + Frontend Data Visualization)
-* **[[https://berylkoko.github.io/Weather-App/](https://berylkoko.github.io/Weather-App/)]** - Asynchronous Weather Application (JS + REST APIs)
+## Selected work
 
-📫 **Let's Connect:** [linkedin.com/in/beryl-koko-28a619245](https://www.linkedin.com/in/beryl-koko-28a619245/)] | ✉️ [bek74@cornell.edu] 
- 
+### [The McQueen Effect](https://github.com/BerylKoko/F1-Analysis)
+**Data Analysis · Data Visualization · Interactive Storytelling**
+
+Has Lewis Hamilton declined, or are perceptions of decline distorted by the standard set during his dominant years? I analyzed his career from 2007 through the 2026 season-to-date using outcome rates, teammate comparisons, and constructor context, then turned the findings into an interactive visual story.
+
+### [Race Lens](https://github.com/BerylKoko/Race-Lens)
+**Product Design · UX Research · Interactive Prototype**
+
+A novice-friendly Formula 1 race interface built from an audit of existing F1 interfaces, task-based user research, and iterative prototyping. The redesign focuses on clearer timing, race context, tyre information, and driver tracking for viewers who do not already know the visual language of F1.
+
+### [Job Market & Skills Analysis](https://github.com/BerylKoko/Job-Market-Skills-Analysis)
+**Python · SQL · Relational Data · Data Visualization**
+
+An exploratory analysis of analyst, product, and business-intelligence job postings. I cleaned and joined relational job, skill, industry, and salary data to compare role families, experience levels, compensation, and recurring technical signals.
+
+### [Bookmatch](https://github.com/BerylKoko/Book-Recommendation)
+**Product Build · Flask · JavaScript · REST APIs**
+
+A deployed book-discovery product that combines Google Books and Open Library data, ranks recommendations using selected subjects and tropes, explains why results match, and handles incomplete catalog metadata and provider failures.
+
+**[Live demo](https://book-recommendation-1-e4km.onrender.com/)**
+
+### [Apple Harvest Festival](https://github.com/BerylKoko/Harvest-Festival)
+**Web Design · Front-End Development**
+
+A responsive multi-page event website built with HTML, CSS, and JavaScript, with structured festival information, mobile navigation, and interactive elements.
+
+**[Live site](https://berylkoko.github.io/Harvest-Festival/)**
+
+## Tools I use
+
+**Data:** Python, SQL, Pandas, NumPy, DuckDB, Excel, Tableau, Matplotlib, Jupyter  
+**Product / Research:** user research, task-based interviews, usability testing, requirements gathering, information architecture, prioritization, Figma  
+**Web:** JavaScript, HTML/CSS, Flask, React, REST APIs, Git/GitHub, Render
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/beryl-koko-28a619245/) · [Email](mailto:bek74@cornell.edu)
