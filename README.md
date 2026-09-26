@@ -1,5 +1,7 @@
 # Hi, I'm Beryl 👋
 
+🌐 **Personal website / portfolio:** [beryl-koko-portfolio.onrender.com](https://beryl-koko-portfolio.onrender.com/)
+
 I'm an Information Science student at Cornell University, concentrating in Data Science. I like projects that start with a question I can't leave alone - something confusing, inefficient, interesting, or worth investigating - and then move through research, analysis, design, and technical execution until there is something concrete to show.
 
 Right now, my work sits across **product, data, UX research, and web development**.
